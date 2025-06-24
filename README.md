@@ -5,7 +5,7 @@ Hello , if you are searching for a windows 11 for a raspberry pi , you're on the
 ### 1. Git cloning
 just copy and paste this into the terminal emulator
 ```
-git clone https://github.com/StateSource/rpi-win-installer
+git clone https://github.com/StateSource/windows-installer
 ```
 ### 2. Chmodding the min module files
 paste this cde into the terminal emulator :
