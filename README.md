@@ -20,5 +20,10 @@ after that open another terminal and paste this into it an press enter.
 ```
 ~/windows-installer/complete-install.sh
 ```
+follow the steps...
 and then when you can close the window
 close it and you will see th windows app in your desktop and open it t run Windows 11 !!!
+
+this will be the fastest way to get Windows 11 runnng on raspberrypi. 3 steps ,1 Windows !
+
+thanks to @Botspot for the auto QEMU system *S+µ
