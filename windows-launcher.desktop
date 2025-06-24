@@ -1,0 +1,10 @@
+[Desktop Entry]
+Vesrion=1.7
+Name=Windows
+Comment=Launcher For Windows VM
+Exec=lxterminal -e "~/windows-installer/assets/vm/windows.sh; exec bash"
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=Utility;ystem;
+MimeType=
